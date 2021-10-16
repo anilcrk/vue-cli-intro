@@ -6,3 +6,9 @@
 <script>
 
 </script>
+
+<style scoped>
+div{
+  border : 2px solid yellow
+}
+</style>
