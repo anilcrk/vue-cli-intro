@@ -1,5 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue' // render olacak dosya
+import Home from './Home' //Home.vue içindeki component import ediliyor.
+
+Vue.component("lamp-component", Home);
 
 new Vue({
   el: '#app',
