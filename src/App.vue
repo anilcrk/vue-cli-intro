@@ -5,12 +5,6 @@
 
 <script>
 // vue kodları burada yazılacak.
+ // business logic burada olur.
 
-export default {
-
-}
 </script>
-
-<style>
-
-</style>
